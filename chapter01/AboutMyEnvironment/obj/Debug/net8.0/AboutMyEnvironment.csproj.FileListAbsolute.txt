@@ -1,0 +1,14 @@
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.exe
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.deps.json
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.runtimeconfig.json
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.dll
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\bin\Debug\net8.0\AboutMyEnvironment.pdb
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.AssemblyInfo.cs
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.dll
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\refint\AboutMyEnvironment.dll
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.pdb
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\AboutMyEnvironment.genruntimeconfig.cache
+F:\Source\cs12dotnet8\chapter01\AboutMyEnvironment\obj\Debug\net8.0\ref\AboutMyEnvironment.dll
