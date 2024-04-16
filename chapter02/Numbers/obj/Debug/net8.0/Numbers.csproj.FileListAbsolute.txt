@@ -1,0 +1,15 @@
+F:\Source\cs12dotnet8\chapter02\Numbers\bin\Debug\net8.0\Numbers.exe
+F:\Source\cs12dotnet8\chapter02\Numbers\bin\Debug\net8.0\Numbers.deps.json
+F:\Source\cs12dotnet8\chapter02\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+F:\Source\cs12dotnet8\chapter02\Numbers\bin\Debug\net8.0\Numbers.dll
+F:\Source\cs12dotnet8\chapter02\Numbers\bin\Debug\net8.0\Numbers.pdb
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.dll
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.pdb
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+F:\Source\cs12dotnet8\chapter02\Numbers\obj\Debug\net8.0\ref\Numbers.dll

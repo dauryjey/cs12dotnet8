@@ -12,3 +12,4 @@ F:\Source\cs12dotnet8\chapter02\Vocabulary\obj\Debug\net8.0\refint\Vocabulary.dl
 F:\Source\cs12dotnet8\chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.pdb
 F:\Source\cs12dotnet8\chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.genruntimeconfig.cache
 F:\Source\cs12dotnet8\chapter02\Vocabulary\obj\Debug\net8.0\ref\Vocabulary.dll
+F:\Source\cs12dotnet8\chapter02\Vocabulary\obj\Debug\net8.0\Vocabulary.sourcelink.json
