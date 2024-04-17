@@ -1,0 +1,15 @@
+F:\Source\cs12dotnet8\chapter02\Arguments\bin\Debug\net8.0\Arguments.exe
+F:\Source\cs12dotnet8\chapter02\Arguments\bin\Debug\net8.0\Arguments.deps.json
+F:\Source\cs12dotnet8\chapter02\Arguments\bin\Debug\net8.0\Arguments.runtimeconfig.json
+F:\Source\cs12dotnet8\chapter02\Arguments\bin\Debug\net8.0\Arguments.dll
+F:\Source\cs12dotnet8\chapter02\Arguments\bin\Debug\net8.0\Arguments.pdb
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfoInputs.cache
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.AssemblyInfo.cs
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.csproj.CoreCompileInputs.cache
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.sourcelink.json
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.dll
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\refint\Arguments.dll
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.pdb
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\Arguments.genruntimeconfig.cache
+F:\Source\cs12dotnet8\chapter02\Arguments\obj\Debug\net8.0\ref\Arguments.dll
