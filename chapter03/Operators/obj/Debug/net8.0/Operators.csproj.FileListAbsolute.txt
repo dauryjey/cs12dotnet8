@@ -1,0 +1,15 @@
+F:\Source\cs12dotnet8\chapter03\Operators\bin\Debug\net8.0\Operators.exe
+F:\Source\cs12dotnet8\chapter03\Operators\bin\Debug\net8.0\Operators.deps.json
+F:\Source\cs12dotnet8\chapter03\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+F:\Source\cs12dotnet8\chapter03\Operators\bin\Debug\net8.0\Operators.dll
+F:\Source\cs12dotnet8\chapter03\Operators\bin\Debug\net8.0\Operators.pdb
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.dll
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\refint\Operators.dll
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.pdb
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+F:\Source\cs12dotnet8\chapter03\Operators\obj\Debug\net8.0\ref\Operators.dll
